@@ -1,0 +1,5 @@
+The application in flask pwskill is connected to GitHub of pwskill u need to remove it
+
+Ls -a
+git remote -v
+git remote rm origin
